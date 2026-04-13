@@ -1,4 +1,4 @@
-avaScript Practice & Concepts Repository
+JavaScript Practice & Concepts Repository
 
 This repository contains my structured practice of core JavaScript concepts along with hands-on examples and mini-projects. It covers essential topics such as variables, data types, loops, functions, DOM manipulation, and asynchronous programming.
 
